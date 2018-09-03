@@ -1,4 +1,4 @@
-# validar design e arquitetura conforme no iten config de ambas
+# validar config de coding 
 
 # validar se é possivel alimentar os dados com diferentes tipos de exames
 
@@ -14,6 +14,5 @@
 
 # validar possibilidade de acesso de multi sessão
 
-# Validar multi sessoes
-
 # validar edições
+
