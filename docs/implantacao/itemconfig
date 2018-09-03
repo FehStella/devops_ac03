@@ -1,0 +1,5 @@
+# Declaração de escopo do processo de implanacao do sistema  - Processo Banco de DADOS SQL Server
+
+# Nesta implantação o processo ocorrera atraves da criação e implantação do sistema utilizando o banco de dados SQL SERVER v2017, afim de que possamos estruturar em tabelas todas as informações necessárias para tornar funcional nosso sistema.
+
+# O Proceso visa proteger de forma minunciosamente acessos, utilizações e proteção utilizando o armazenament via banco de dados, bem como, a utilização de ferramentas como Scripts criptografados armazenados, hoje utilizados para como exemplo Certificado digitl.
